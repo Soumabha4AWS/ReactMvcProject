@@ -1,0 +1,27 @@
+h2 {
+  text-align: center;
+}
+
+.row {
+  background-color: #2F3035;
+  position: relative;
+  background-image: url(../../assets/images/Background-Course3.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+h4 {
+color: green;
+font-weight: bold;
+font-size: large;
+}  
+
+
+.description {
+color: yellowgreen;
+text-align: left;
+font-weight: bold;
+font-size: larger;
+}
